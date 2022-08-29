@@ -24,9 +24,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/28955078?v=4" width="100px;" alt="Foto de Weslley Capelari no GitHub" ><br>
+    <td align="center" style="border: none;">
+      <a href="https://github.com/foreveralones">
+        <img src="https://avatars.githubusercontent.com/u/28955078?v=4" width="100px;" style="border-radius: 25px;" alt="Foto de Weslley Capelari no GitHub"><br>
         <sub>
           <b>Weslley Capelari</b>
         </sub>
